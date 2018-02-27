@@ -6,7 +6,7 @@ from random import getrandbits
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 }
-url = 'https://www.excelsiormilano.com/module/antcontactcustom/sendmail'
+url = 'https://slamjamsocialism-drops.com/drops/49'
 
 
 def raffle(thread):
